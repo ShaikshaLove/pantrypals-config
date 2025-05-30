@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: auth-core
+  server:
+  port: 7070
+
+jwt:
+  secret: 2034c620-e65c-4e26-bd24-6c1d6de59987
