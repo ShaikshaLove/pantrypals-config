@@ -6,4 +6,4 @@ spring:
 
 jwt:
   secret: 2034c620-e65c-4e26-bd24-6c1d6de59987
-  tokenExpiration: 60
+  tokenExpiration: 600000
